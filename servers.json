@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "name": "homieb1030",
+      "address": "https://anisette-v3-server-cue1.onrender.com"
+    },
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
